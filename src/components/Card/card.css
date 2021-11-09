@@ -1,0 +1,33 @@
+img {
+  width: 200px;
+  height: 300px;
+  border: 1px solid green;
+}
+
+#Slytherin {
+  border: 4px solid green;
+  border-radius: 8px;
+}
+
+#Ravenclaw {
+  border: 4px solid #0047c9;
+  border-radius: 8px;
+}
+
+#Gryffindor {
+  border: 4px solid #ff4542;
+  border-radius: 8px;
+}
+
+#Hufflepuff {
+  border: 4px solid #daac47;
+  border-radius: 8px;
+}
+
+.singleCard {
+  width: 250px;
+  height: 480px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
